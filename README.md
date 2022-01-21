@@ -1,2 +1,2 @@
-# tech-blog
-A CMS for techno-nerds who want to connect to their peeps, show their stuff, and techno-babble.
+# just-tech-news
+Post, read, vote, comment on what's in the news in the technology sector.
