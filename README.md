@@ -27,6 +27,10 @@ THIS SQL SCRIPT SHOULD ONLY BE RUN ONCE TO INITIALIZE THE MYSQL DATABASE/SCHEMA 
 
 ## Usage
 
+To execute the application using the Heroku deployed app, simply connect to:
+
+https://msdale-tech-blog.herokuapp.com/
+
 To execute the application locally, you have 3 command-line options.  From the root directory of the repository clone, type one of the following:
 
 1.  *npm run start*           (starts the server and connects to the database)
@@ -34,7 +38,6 @@ To execute the application locally, you have 3 command-line options.  From the r
 3.  *npm run startseed*       (starts the server and synchronizes database with sequelize models...all data replaced)
 
 The application will remain running in the terminal until it is terminated with a CTRL-C keystroke.
-
 
 ## Questions
 
