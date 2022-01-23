@@ -7,7 +7,9 @@
     <div>
       <span>{{post.title}}</span>
       <br>
-      <input name="post-content" type="text" value="{{post.content}}" />
+      <br>
+      <label for="post-content">Content</label>
+      <textarea name="post-content" id="post-content">{{post.content}}</textarea>
     </div>
     <div>
       <a href="/post/{{post.id}}">{{post.comments.length}} {{format_plural "comment" post.comments.length}}</a>

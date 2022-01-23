@@ -15,8 +15,6 @@ const seedAll = async () => {
 
   await seedComments();
   console.log('--------------');
-
-  process.exit(0);
 };
 
-seedAll();
+module.exports = seedAll;
