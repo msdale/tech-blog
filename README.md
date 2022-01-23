@@ -4,6 +4,8 @@
 
 A CMS style technical blog site
 
+![screenshot](./images/screenshot.png)
+
 ## Table Of Contents
 
 - [tech-blog](#tech-blog)
