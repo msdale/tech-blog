@@ -34,7 +34,7 @@ THIS SQL SCRIPT SHOULD ONLY BE RUN ONCE TO INITIALIZE THE MYSQL DATABASE/SCHEMA 
 
 To execute the application using the Heroku deployed application, click the following link:
 
-https://msdale-tech-blog.herokuapp.com/
+https://tech-blog-msdale.herokuapp.com/
 
 The application interface should appear as "The Tech Blog" in your browser.
 
